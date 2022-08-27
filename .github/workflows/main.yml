@@ -30,6 +30,6 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a py
         run: |
-          cd whether
+          cd weather
           python main.py
           
